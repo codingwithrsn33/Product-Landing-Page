@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Product Name</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Your Product Name</h1>
+    <p>A short tagline describing your product</p>
+  </header>
+
+  <section class="hero">
+    <img src="hero-image.jpg" alt="Hero Image">
+    <div class="hero-content">
+      <h2>Introducing [Product Name]!</h2>
+      <p>A more detailed description of your product and its benefits.</p>
+      <a href="#" class="button">Learn More</a>
+    </div>
+  </section>
+
+  <section class="features">
+    <h3>Key Features</h3>
+    <ul>
+      <li>Feature 1 description</li>
+      <li>Feature 2 description</li>
+      <li>Feature 3 description</li>
+    </ul>
+  </section>
+
+  <section class="benefits">
+    <h2>Why Choose [Product Name]?</h2>
+    <div class="benefit-card">
+      <img src="benefit-icon1.svg" alt="Benefit Icon">
+      <h4>Benefit 1</h4>
+      <p>Explanation of benefit 1</p>
+    </div>
+    <div class="benefit-card">
+      <img src="benefit-icon2.svg" alt="Benefit Icon">
+      <h4>Benefit 2</h4>
+      <p>Explanation of benefit 2</p>
+    </div>
+    <div class="benefit-card">
+      <img src="benefit-icon3.svg" alt="Benefit Icon">
+      <h4>Benefit 3</h4>
+      <p>Explanation of benefit 3</p>
+    </div>
+  </section>
+
+  <section class="cta">
+    <h2>Get Started Today!</h2>
+    <a href="#" class="button">Sign Up Now</a>
+  </section>
+
+  <footer>
+    <p>Copyright &copy; 2024 Your Company Name</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

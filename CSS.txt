@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 40px;
+}
+
+.hero img {
+  width: 50%;
+  max-width: 400px;
+}
+
+.hero-content {
+  width: 50%;
+  max-width: 400px;
+  padding-left: 20px;
+}
+
+.features, .benefits, .cta {
+  text-align: center;
+  padding: 40px;
+}
+
+.features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.features li {
+  margin-bottom: 10px;
+}
+
+.benefits {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.benefit-card {
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.cta {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer {
+  text
